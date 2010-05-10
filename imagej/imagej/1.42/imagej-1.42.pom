@@ -1,7 +1,0 @@
-<project>
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>imagej</groupId>
-  <artifactId>imagej</artifactId>
-  <version>1.42</version>
-  <description>POM was created from install:install-file</description>
-</project>
