@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>libs-releases-local</repoKey>
+    <path>colt/colt/1.2.0</path>
+  </repoPath>
+  <name>1.2.0</name>
+  <created>1273948896644</created>
+  <lastModified>1273948896647</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1273948896647</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

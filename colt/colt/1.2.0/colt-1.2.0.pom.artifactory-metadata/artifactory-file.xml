@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>libs-releases-local</repoKey>
+    <path>colt/colt/1.2.0/colt-1.2.0.pom</path>
+  </repoPath>
+  <name>colt-1.2.0.pom</name>
+  <created>1273948896730</created>
+  <lastModified>1273948880000</lastModified>
+  <size>440</size>
+  <mimeType>application/x-maven-pom+xml</mimeType>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1273948896731</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>sha1</type>
+          <original>NO_ORIG</original>
+          <actual>c3e70084249f07e45e7cb19042ee227be68af94b</actual>
+        </checksum>
+        <checksum>
+          <type>md5</type>
+          <original>NO_ORIG</original>
+          <actual>365bdc6c660a418f1aa1282882197fc8</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

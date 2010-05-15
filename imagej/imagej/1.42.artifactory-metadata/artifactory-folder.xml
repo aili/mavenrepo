@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>libs-releases-local</repoKey>
+    <path>imagej/imagej/1.42</path>
+  </repoPath>
+  <name>1.42</name>
+  <created>1273948856640</created>
+  <lastModified>1273948856643</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1273948856643</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>
